@@ -6,4 +6,4 @@ PRODUCT_NAME := matthiasvp_flo
 PRODUCT_MODEL:= Nexus 7
 
 #Add bootanimation to build
-PRODUCT_COPY_FILES += vendor/matthiasvp/bootanimation/flo/bootanimation.zip:system/media/bootanimation.zip
+PRODUCT_COPY_FILES += vendor/matthiasvp/bootanimation/flo/bootanimation.zip:system/media/bootanimation.zip:matthiasvp
