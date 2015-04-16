@@ -1,3 +1,3 @@
-#add_lunch_combo matthiasvp_flo-userdebug
+add_lunch_combo matthiasvp_flo-userdebug
 add_lunch_combo matthiasvp_hammerhead-userdebug
-#add_lunch_combo matthiasvp_mako-userdebug
+add_lunch_combo matthiasvp_mako-userdebug
