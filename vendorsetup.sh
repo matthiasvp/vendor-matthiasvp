@@ -1,2 +1,1 @@
-add_lunch_combo matthiasvp_flo-userdebug
 add_lunch_combo matthiasvp_hammerhead-userdebug
